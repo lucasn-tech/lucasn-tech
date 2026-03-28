@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey! I'm Lucas Nóbrega 👋
 
-<!--
-**lucasn-tech/lucasn-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer from Brazil 🇧🇷
 
-Here are some ideas to get you started:
+I work mainly with .NET, building APIs, integrations, and backend systems for business automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve spent the last years working with ERP integrations, fiscal systems, and internal tools, helping companies connect and automate their processes.
+
+I also work with React on the frontend when needed.
+
+## Links
+- [Linkedin](www.linkedin.com/in/lucasnóbrega)
+- [GitHub as lucasn-tech](https://github.com/lucasn-tech)
